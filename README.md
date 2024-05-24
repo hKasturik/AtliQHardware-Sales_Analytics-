@@ -50,12 +50,13 @@ To evaluate the sales performance over the past 3 years, identify trends, and as
 4. Invest in e-commerce platforms and digital marketing to reach a broader audience, especially in markets with high digital adoption.
 5. Engage with customers through loyalty programs and targeted promotions to enhance customer retention.
 
-  Customer net sales performance report
+##### Customer net sales performance report
 ![Screenshot 2024-05-25 002654](https://github.com/hKasturik/AtliQHardware-Sales_Analytics-/assets/170725023/78a57ab1-8759-4fa6-bc44-69e4bbfb26ad)           
-![Screenshot 2024-05-25 002733](https://github.com/hKasturik/AtliQHardware-Sales_Analytics-/assets/170725023/a1631dac-0645-4f66-bba8-d678abcd0727)
+![Screenshot 2024-05-25 004846](https://github.com/hKasturik/AtliQHardware-Sales_Analytics-/assets/170725023/acdf252f-1308-46b6-8232-89b0b5000c99)
 
- Market sales performance vs Target
- ![Screenshot 2024-05-25 003942](https://github.com/hKasturik/AtliQHardware-Sales_Analytics-/assets/170725023/c4d388c6-c3d2-45f4-8d62-08aa92757ad8)
+##### Market sales performance vs Target
+![Screenshot 2024-05-25 004920](https://github.com/hKasturik/AtliQHardware-Sales_Analytics-/assets/170725023/2fe6b231-e286-407e-ad42-319622884581)
+
 
 
 
