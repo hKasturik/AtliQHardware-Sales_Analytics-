@@ -1,4 +1,4 @@
-# AtliQHardware-Sales_Analytics-
+# AtliQHardware-Sales_Analytics
 
 ## Problem Statement
 AtliQ Hardware needs to assess its sales performance and progress against targets to make strategic decisions for future growth.
@@ -8,7 +8,7 @@ To evaluate the sales performance over the past 3 years, identify trends, and as
 
 ## steps:
 1. Connected tables using Data Modelling.
-2. cleaned the data using Power Query.
+2. Cleaned the data using Power Query.
 3. Created measures using DAX.
 4. Created customer net sales performance,market performance reports using Pivot Table.
 5. Added beautification to the reports and made them user emphatic using Conditional Formatting.
@@ -50,11 +50,14 @@ To evaluate the sales performance over the past 3 years, identify trends, and as
 4. Invest in e-commerce platforms and digital marketing to reach a broader audience, especially in markets with high digital adoption.
 5. Engage with customers through loyalty programs and targeted promotions to enhance customer retention.
 
-  ##Customer net sales performance report
+  Customer net sales performance report
+![Screenshot 2024-05-25 002654](https://github.com/hKasturik/AtliQHardware-Sales_Analytics-/assets/170725023/78a57ab1-8759-4fa6-bc44-69e4bbfb26ad)           
+![Screenshot 2024-05-25 002733](https://github.com/hKasturik/AtliQHardware-Sales_Analytics-/assets/170725023/a1631dac-0645-4f66-bba8-d678abcd0727)
 
-  ![Screenshot 2024-05-25 002733](https://github.com/hKasturik/AtliQHardware-Sales_Analytics-/assets/170725023/a1631dac-0645-4f66-bba8-d678abcd0727)
-![Screenshot 2024-05-25 002654](https://github.com/hKasturik/AtliQHardware-Sales_Analytics-/assets/170725023/78a57ab1-8759-4fa6-bc44-69e4bbfb26ad)
+ Market sales performance vs Target
+ ![Screenshot 2024-05-25 003942](https://github.com/hKasturik/AtliQHardware-Sales_Analytics-/assets/170725023/c4d388c6-c3d2-45f4-8d62-08aa92757ad8)
 
- ##Market performance report vs Target
- ![Screenshot 2024-05-25 002836](https://github.com/hKasturik/AtliQHardware-Sales_Analytics-/assets/170725023/10aa578b-5c2a-4bf2-8043-5865149365c0)
+
+
+
 
