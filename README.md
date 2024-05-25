@@ -1,7 +1,7 @@
 # AtliQHardware-Sales_Analytics
 
 ## Problem Statement
-AtliQ Hardware is a imaginary company selling hardware products through three channels: retailers (brick and mortar), direct (AtliQ eStore and AtliQ Exclusive stores), and distributors to different customers across the world. They operate on platforms like Brick and Mortar(Croma, Best Buy)and E-commerce (Amazon, and Flipkart) targeting end users. These diverse channels ensure broad market reach and product availability.Now AtliQ needs to assess its sales performance and progress against targets to make strategic decisions for future growth.
+AtliQ Hardware is an imaginary company selling hardware products through three channels: retailers (brick and mortar), direct (AtliQ eStore and AtliQ Exclusive stores), and distributors to different customers across the world. They operate on platforms like Brick and Mortar(Croma, Best Buy)and E-commerce (Amazon, and Flipkart) targeting end users. These diverse channels ensure broad market reach and product availability.Now AtliQ needs to assess its sales performance and progress against targets to make strategic decisions for future growth.
 
 ## Purpose
 To evaluate the sales performance over the past 3 years, identify trends, and assess progress against set targets.
